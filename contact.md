@@ -47,7 +47,7 @@ input[type=submit]:hover {
 
 
 <div class="container">
-  <form action="https://formspree.io/nomad.ai.ou@gmail.com" method="POST">
+  <form action="https://formspree.io/vivienseguy@gmail.com" method="POST">
     <label for="fname">Email</label>
     <input type="text" id="fname" name="email" placeholder="Your e-mail">
     <label for="subject">Subject</label>
