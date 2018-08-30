@@ -16,7 +16,7 @@
 title: Nomad AI
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Building Apps which are fast, offline and deliver to you the best AI technologies. 
+  Building Apps that are fast, offline and deliver best AI technologies. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nomad_ai
