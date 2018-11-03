@@ -4,9 +4,10 @@
 layout: home
 ---
 
-Nomad AI is a company founded during summer 2018 in order to support the development of two well-known smartphones applications:
+Nomad AI was founded during summer 2018 by former PhD students in Artificial Intelligence at Kyoto University in order to develop smartphones applications with powerful AI-based capabilities. So far, Nomad AI is involved in the development of two well-known  smartphones applications:
 * [Yomiwa](https://www.yomiwa.net):  A Japanese dictionary featuring powerful Optical Character Recognition
 * [HanYou](https://itunes.apple.com/fr/app/hanyou-chinese-recognizer/id901093520?mt=8):  The Chinese sister-app of Yomiwa
+Nomad AI is also currently working on new applications in collaboration with several AI researchers. More information coming soon.
 
 # Yomiwa
 
