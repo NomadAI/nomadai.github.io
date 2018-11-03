@@ -20,7 +20,7 @@ Nomad AI is also currently working in collaboration with several AI researchers 
 
 <body>
 <center>
-<iframe width="420" height="345" src="https://www.youtube.com/embed/CQZD7iT7GQw">
+<iframe width="620" height="425" src="https://www.youtube.com/embed/CQZD7iT7GQw">
 </iframe>
 </center>
 </body>
