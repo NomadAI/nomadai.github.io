@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact us
-permalink: /contact/
+permalink: /contact
 ---
 
 <!--<form name="contactform" method="post" action="https://formspree.io/nomad.ai.ou@gmail.com">
