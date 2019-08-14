@@ -17,6 +17,13 @@ Nomad AI was founded during summer 2018 by former PhD students in Artificial Int
     </center>
 </p>
 
+<body>
+<!-- <center> -->
+<iframe width="280" height="425" src="https://www.youtube.com/embed/B7O4t7mweVw">
+</iframe>
+<!-- </center> -->
+</body>
+
 
 # Yomiwa
 
