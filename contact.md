@@ -11,7 +11,10 @@ permalink: /contact
 </form> -->
 
 <style>
-body {font-family: Arial, Helvetica, sans-serif;}
+body {
+  <!-- font-family: Arial,
+  Helvetica, sans-serif; -->
+}
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
@@ -34,11 +37,16 @@ input[type=submit] {
     cursor: pointer;
 }
 
+input, select, textarea {
+font-size: 100%;
+}
+
+
 input[type=submit]:hover {
     background-color: #142E54;
 }
 
-.container {
+.formContainer {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
@@ -46,8 +54,8 @@ input[type=submit]:hover {
 </style>
 
 
-<div class="container">
-  <form action="https://formspree.io/vivienseguy@gmail.com" method="POST">
+<div class="formContainer">
+  <form action="https://formspree.io/contact@nomadai.org" method="POST">
     <label for="fname">Email</label>
     <input type="text" id="fname" name="email" placeholder="Your e-mail">
     <label for="subject">Subject</label>
