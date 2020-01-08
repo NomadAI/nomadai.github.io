@@ -4,7 +4,7 @@ title: Yomiwa
 permalink: /yomiwa
 ---
 
-Yomiwa's development started in early 2013 with the aim to build the first app with a working Optical Character Recognition functionality.
+The [Yomiwa](http://www.yomiwa.net) project started in February 2013, with the aim of building one of the very first Japanese optical recognition app. The [Yomiwa app](https://itunes.apple.com/app/yomiwa/id670931120) has since been updated continuously over the years to become the most advanced Japanese dictionary, translator and optical recognizer on the Apple Store and Google Play Stores.
 
 <p>
     <center><a class="badge" href="https://itunes.apple.com/app/yomiwa/id670931120"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
