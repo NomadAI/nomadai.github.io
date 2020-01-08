@@ -25,7 +25,7 @@ Nomad AI was founded during summer 2018 by former PhD students in Artificial Int
 <div class="row">
 
   <div class="column">
-  <a href="https://apps.apple.com/app/chord-ai/id1446177109">Chord AI</a>: Chord AI is an iOS app which can recognize 168 music chords by analyzing music from either your device microphone or from your offline audio files. Available for <a href="https://apps.apple.com/app/chord-ai/id1446177109">iOS</a> (Android version coming soon)
+  <a href="http://www.chordai.net">Chord AI</a>: Chord AI is an iOS app which can recognize 168 music chords by analyzing music from either your device microphone or from your offline audio files. Available for <a href="https://apps.apple.com/app/chord-ai/id1446177109">iOS</a> (Android version coming soon)
 
   <p>
     <center><a class="badge" href="https://apps.apple.com/app/chord-ai/id1446177109"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
