@@ -42,7 +42,7 @@ Nomad AI was founded during summer 2018 by former PhD students in Artificial Int
 <div class="row chordai">
   <div class="column">
     <h1>Chord AI</h1>
-    <a href="http://www.chordai.net">Chord AI</a> is an iOS app which can recognize 168 music chords by analyzing music from either your device microphone or from your offline audio files. Available for <a href="https://apps.apple.com/app/chord-ai/id1446177109">iOS</a> (Android version coming soon)
+    <a href="http://www.chordai.net">Chord AI</a> is an iOS app which can recognize 168 music chords by analyzing music from either your device microphone or from your offline audio files. Available for iOS.
     <p>
       <center><a class="badge" href="https://apps.apple.com/app/chord-ai/id1446177109"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
       </center>
@@ -66,7 +66,7 @@ Nomad AI was founded during summer 2018 by former PhD students in Artificial Int
 </div>
   <div class="column">
   <h1>Yomiwa</h1>
-  <a href="https://www.yomiwa.net">Yomiwa</a>: Yomiwa is a most advanced Japanese dictionary on both the Apple Store and Google Play Store. Yomiwa features optical character recognition (OCR), Japanese to English machine translation, a Japanese morphological analyzer, and numerous unique features to help user read and learn Japanese. Available for <a href="https://https://itunes.apple.com/app/yomiwa/id670931120">iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.yomiwa.yomiwa">Android</a>
+  <a href="https://www.yomiwa.net">Yomiwa</a>: Yomiwa is a most advanced Japanese dictionary on both the Apple Store and Google Play Store. Yomiwa features optical character recognition (OCR), Japanese to English machine translation, a Japanese morphological analyzer, and numerous unique features to help user read and learn Japanese.
 
   <p>
       <center><a class="badge" href="https://itunes.apple.com/app/yomiwa/id670931120"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
@@ -82,7 +82,7 @@ Nomad AI was founded during summer 2018 by former PhD students in Artificial Int
 
   <div class="column">
   <h1>HanYou</h1>
-  HanYou is an advanced Chinese dictionary which is built upon the Yomiwa's powerful technologies. HanYou's OCR algorithms are able to recognize more than 13000 Chinese characters. Available for <a href="https://itunes.apple.com/app/hanyou-chinese-recognizer/id901093520">iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.yomiwa.hanyou">Android</a>
+  HanYou is an advanced Chinese dictionary which is built upon the Yomiwa's powerful technologies. HanYou's OCR algorithms are able to recognize more than 13000 Chinese characters.
   <p>
       <center><a class="badge" href="https://itunes.apple.com/us/app/hanyou-chinese-dictionary-and-translator/id901093520?mt=8"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
           <a href="https://play.google.com/store/apps/details?id=com.yomiwa.hanyou&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" width="156" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" /></a>
