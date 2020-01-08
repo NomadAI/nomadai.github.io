@@ -70,7 +70,7 @@ Nomad AI was founded during summer 2018 by former PhD students in Artificial Int
 <div class="row yomiwa">
 <div class="column">
 <h1>Yomiwa</h1>
-<a href="https://www.yomiwa.net">Yomiwa</a>: Yomiwa is a most advanced Japanese dictionary on both the Apple Store and Google Play Store. Yomiwa features optical character recognition (OCR), Japanese to English machine translation, a Japanese morphological analyzer, and numerous unique features to help user read and learn Japanese.
+<a href="https://www.yomiwa.net">Yomiwa</a> is the most advanced Japanese dictionary on both the Apple Store and Google Play Store. Yomiwa features optical character recognition (OCR), Japanese to English machine translation, a Japanese morphological analyzer, and numerous unique features to help user read and learn Japanese.
 
 <p>
     <center><a class="badge" href="https://itunes.apple.com/app/yomiwa/id670931120"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
