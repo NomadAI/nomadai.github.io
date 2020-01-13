@@ -1,0 +1,75 @@
+---
+layout: page
+published: true
+title: Yomi Browser
+permalink: /yomibrowser
+---
+
+<style>
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 100%;
+}
+.yomibrowser {
+  display: flex;
+  flex-direction: row;
+}
+.column {
+  float: center;
+  width: 31%;
+  padding: 5px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+
+@media screen and (max-width: 600px) {
+  .row {
+    flex-direction: column;
+  }
+  .column {
+    width: 100%;
+  }
+}
+
+
+.row:after {
+  content: ""; -->
+  display: flex; -->
+  clear: both; -->
+}
+
+</style>
+
+Yomi Browser is a iOS web browser that let you browser Japanese websites with ease by adding furiganas above words. Moreover, you can tap each word to display a popup with their meanings in multiple languages.
+
+<p>-
+    <center><a class="badge" href="https://itunes.apple.com/app/yomibrowser/id670931120"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
+        <a href="https://play.google.com/store/apps/details?id=com.yomiwa.yomiwa&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" width="156" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" /></a>
+    </center>
+</p>
+
+<div class="row yomibrowser">
+  <div class="column">
+    <img src="/assets/images/furiganas_X.png" alt="">
+  </div>
+  <div class="column">
+    <img src="/assets/images/popups_X.png" alt="">
+  </div>
+  <div class="column">
+    <img src="/assets/images/word_details_X.png" alt="">
+  </div>
+</div>
+
+<p style="margin-top:0.5cm; text-align: center;">
+<a href="{{ page.url }}/privacy-policy">
+Yomi Browser privacy policy
+</a>
+</p>
