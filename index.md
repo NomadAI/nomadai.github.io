@@ -4,9 +4,6 @@ layout: home
 ---
 
 <style>
-<!-- * {
-  box-sizing: border-box;
-} -->
 
 .row {
   display: flex;

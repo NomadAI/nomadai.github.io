@@ -23,9 +23,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  NomadAI
 
 header_pages:
+  - chordai.md
   - yomiwa.md
   - hanyou.md
-  - chordai.md
+  - yomibrowser.html
   - contact.md
 
 # Build settings

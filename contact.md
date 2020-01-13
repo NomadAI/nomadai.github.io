@@ -15,7 +15,6 @@ body {
   <!-- font-family: Arial,
   Helvetica, sans-serif; -->
 }
-* {box-sizing: border-box;}
 
 input[type=text], select, textarea {
     width: 100%;
