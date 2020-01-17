@@ -20,6 +20,10 @@ layout: home
   display: flex;
   flex-direction: row-reverse;
 }
+.yomibrowser {
+  display: flex;
+  flex-direction: row-reverse;
+}
 .column {
   float: center;
   width: 50%;
@@ -105,6 +109,24 @@ Nomad AI was founded during summer 2018 by former PhD students in Artificial Int
    <center>
    <iframe width="280" height="450" src="https://www.youtube.com/embed/4Vu-E9KeGmc">
    </iframe>
+   </center>
+  </div>
+</div>
+
+
+<div class="row yomibrowser">
+
+  <div class="column">
+  <h1>Yomi Browser</h1>
+  Yomi Browser is a simple browser that adds furiganas or romajis above Japanese words automatically. Besides, a tap on each Japanese word will display a popup with detailed definitions in several target languages.
+  <p>
+      <center><a class="badge" href="https://apps.apple.com/app/yomi-browser/id1492326021"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
+      </center>
+   </p>
+   </div>
+  <div class="column">
+   <center>
+   <img src="/assets/images/popups_X.png" alt="">
    </center>
   </div>
 </div>
