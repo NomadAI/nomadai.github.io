@@ -13,7 +13,7 @@ The [Chord AI](https://www.chordai.net) project was born after Nomad AI founders
 
 <p>
 <center>
-<iframe width="280" height="500" src="https://www.youtube.com/embed/B7O4t7mweVw">
+<iframe width="280" height="500" src="https://www.youtube.com/embed/6vA83qEUoCA">
 </iframe>
 </center>
 </p>
