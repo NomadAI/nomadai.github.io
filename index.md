@@ -52,14 +52,15 @@ layout: home
 
 </style>
 
-Nomad AI was founded by former PhD students in Artificial Intelligence at Kyoto University. Nomad AI takes advantage of the recent advances in AI to develop iOS and Android applications with powerful on-device machine learning algorithms, such as text detection, natural language processing or music chord recognition. Nomad AI creations are available on the <a href="https://apps.apple.com/developer/nomad-ai-ou/id670931123">Apple Store</a> and the <a href="https://play.google.com/store/apps/developer?id=Yomiwa&hl=en">Google Play store</a>. 
+Nomad AI was founded by former PhD students in Artificial Intelligence at Kyoto University. Nomad AI takes advantage of the recent advances in AI to develop iOS and Android applications with powerful on-device machine learning algorithms, such as text detection, natural language processing or music chord recognition. Nomad AI creations are available on the <a href="https://apps.apple.com/developer/nomad-ai-ou/id670931123">Apple Store</a> and the <a href="https://play.google.com/store/apps/developer?id=Yomiwa&hl=en">Google Play store</a>.
 
 <div class="row chordai">
   <div class="column">
     <h1>Chord AI</h1>
-    <a href="http://www.chordai.net">Chord AI</a> is an iOS app which can recognize 268 music chords by analyzing music from either your device microphone or from your offline audio files. Available for iOS (Android version coming soon)
+    <a href="http://www.chordai.net">Chord AI</a> is an iOS and Android app which can recognize 268 music chords by analyzing music from either your device microphone or from your offline audio files.
     <p>
       <center><a class="badge" href="https://apps.apple.com/app/chord-ai/id1446177109"><img class="badge" src="https://arolet.github.io/res/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Available on the App Store"/></a>
+        <a href="https://play.google.com/store/apps/details?id=com.chordai&hl=en"><img alt="Get it on Google Play" width="156" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" /></a>
       </center>
     </p>
   </div>
