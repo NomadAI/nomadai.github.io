@@ -4,7 +4,7 @@ title: Privacy policy for the Yomi Browser app
 permalink: /yomibrowser/privacy-policy
 ---
 
-The team working on the Yomi Browser app is committed to privacy. Currently, the Yomi Browser app does not gather any user information.
+The team working on the Yomi Browser app is committed to privacy. Currently, the Yomi Browser app does not collect data neither gather any user information.
 
 # 1 ‐ Payment transactions
 
